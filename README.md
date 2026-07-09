@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jasper 👋</h1>
+<p align="center">
+Senior software engineer based in Barcelona.<br>
+I build and ship (AI-powered) products end to end.
+</p>
+<p align="center">
+  <a href="https://jasperikink.com">🌐 jasperikink.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jasperikink">💼 LinkedIn</a> &nbsp;·&nbsp;
+  ✉️ jasper@missiemaker.nl
+</p>
 
-<!--
-**jasperikink/jasperikink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I do
 
-Here are some ideas to get you started:
+I'm a fullstack engineer with 8+ years of experience, mostly in TypeScript, React, Next.js and Node.js. These days I run my own studio (Missiemaker) where I design, build and ship products solo, from first idea to live in production. I care about clean architecture, product outcomes, and building AI into real user-facing features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work runs in production rather than in public repos, so the best way to see what I do is to look at the live products below. Happy to walk through the code and architecture in a call.
+
+
+🚀 Live products
+
+Clarai — AI reporting automation for agencies
+Turns hours of manual client reporting into an automated workflow. Built on n8n + the Anthropic API + Next.js, with KPIs computed and verified in code so the AI writes the analysis but never the numbers.
+TypeScript Next.js n8n Anthropic API Node.js
+https://getclarai.com
+
+CineCircle — film matching for couples
+Both partners swipe independently and match on a mutual yes, so you find something you'll both actually watch. React PWA with realtime sync.
+React PWA TypeScript Realtime
+https://cine-circle.com
+
+Pouletje.nl — live sports pool tracker
+A World Cup pool tracker with friend groups and live standings. Grown to 200 daily visitors at peak, shipped solo end to end.
+React Next.js TypeScript
+https://pouletje.nl
+
+ODIN — my own multi-agent AI system (private)
+An orchestrator that routes multi-step work across specialist agents, with tool calling, retries, memory and cost-aware model routing. I use it daily to multiply my own output.
+TypeScript Agentic AI LLM Orchestration
+https://meet-odin.com
+
+
+🛠️ Tech I work with
+
+Frontend: React · Next.js · Angular · TypeScript · Modern CSS
+Backend: Node.js · REST APIs · integrations
+AI & automation: Anthropic API · n8n · agentic workflows · prompt engineering
+Cloud & delivery: AWS · Azure · CI/CD · Git
+
+
+📌 A note on this profile
+
+A lot of my code lives in private and client repositories, so my public activity here doesn't reflect the full picture. If you're evaluating my work, the live products above are the real proof, and I'm always happy to screen-share the codebase and talk through the decisions behind it.
+
+<p align="center"><em>Currently open to senior frontend / fullstack roles — remote.</em></p>
