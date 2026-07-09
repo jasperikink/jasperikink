@@ -21,23 +21,22 @@ Most of my work runs in production rather than in public repos, so the best way 
 Clarai — AI reporting automation for agencies
 Turns hours of manual client reporting into an automated workflow. Built on n8n + the Anthropic API + Next.js, with KPIs computed and verified in code so the AI writes the analysis but never the numbers.
 TypeScript Next.js n8n Anthropic API Node.js
-https://getclarai.com
+<a href="https://getclarai.com">getclarai.com</a>
 
 CineCircle — film matching for couples
 Both partners swipe independently and match on a mutual yes, so you find something you'll both actually watch. React PWA with realtime sync.
 React PWA TypeScript Realtime
-https://cine-circle.com
+<a href="https://cine-circle.com">cine-circle.com</a>
 
 Pouletje.nl — live sports pool tracker
 A World Cup pool tracker with friend groups and live standings. Grown to 200 daily visitors at peak, shipped solo end to end.
 React Next.js TypeScript
-https://pouletje.nl
+<a href="https://pouletje.nl">pouletje.nl</a>
 
 ODIN — my own multi-agent AI system (private)
 An orchestrator that routes multi-step work across specialist agents, with tool calling, retries, memory and cost-aware model routing. I use it daily to multiply my own output.
 TypeScript Agentic AI LLM Orchestration
-https://meet-odin.com
-
+<a href="https://meet-odin.com">meet-odin.com</a>
 
 🛠️ Tech I work with
 
