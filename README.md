@@ -11,7 +11,7 @@ I build and ship (AI-powered) products end to end.
 
 What I do
 
-I'm a fullstack engineer with 8+ years of experience, mostly in TypeScript, React, Next.js and Node.js. These days I run my own studio (Missiemaker) where I design, build and ship products solo, from first idea to live in production. I care about clean architecture, product outcomes, and building AI into real user-facing features.
+I'm a fullstack engineer with 8+ years of experience, mostly in TypeScript, React Angular, Next.js and Node.js. These days I run my own studio (Missiemaker) where I design, build and ship products solo, from first idea to live in production. I care about clean architecture, product outcomes, and building AI into real user-facing features.
 
 Most of my work runs in production rather than in public repos, so the best way to see what I do is to look at the live products below. Happy to walk through the code and architecture in a call.
 
